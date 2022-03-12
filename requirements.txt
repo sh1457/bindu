@@ -1,8 +1,0 @@
-# pygame
-# pyopengl
-numpy
-pypixelart
-
-## DEV
-black
-wheel
